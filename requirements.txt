@@ -1,0 +1,5 @@
+fastmcp
+playwright
+fastapi
+uvicorn
+python-dotenv

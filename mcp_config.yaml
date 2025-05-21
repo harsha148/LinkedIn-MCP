@@ -1,0 +1,6 @@
+name: linkedin-playwright-mcp
+description: MCP server for LinkedIn job/feed scraping via Playwright
+tools:
+  - login
+  - fetch_feed
+  - search_jobs
